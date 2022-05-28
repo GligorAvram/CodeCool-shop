@@ -17,6 +17,13 @@ be changed at runtime by an administrator.
 
 <hr>
 
+[Installation](#installation)
+[Usage](#Usage)
+[How to contribute](#how-to-contribute)
+[Licence](#Licence)
+[You may also like](#you-may-also-like)
+</div>
+
 ## Installation
 
 <ol>
@@ -57,4 +64,3 @@ unlicense
     <li> <a href="#">Link 1</a> </li>
     <li> <a href="#">Link 2</a> </li>
 </ul>
-</div>
