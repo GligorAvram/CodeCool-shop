@@ -54,6 +54,7 @@ from in memory to using a database from the administrator console.
 
 
 ## License
+
 unlicense
 
 <hr>
@@ -61,6 +62,6 @@ unlicense
 ## You may also like
 
 <ul>
-    <li> <a href="#">Link 1</a> </li>
-    <li> <a href="#">Link 2</a> </li>
+    <li><a href="https://github.com/GligorAvram/aibest">AIBest</a></li>
+    <li><a href="https://github.com/GligorAvram/ProMan">ProMan</a></li>
 </ul>
