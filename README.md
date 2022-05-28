@@ -17,6 +17,14 @@ be changed at runtime by an administrator.
 
 <hr>
 
+## Installation
+
+<ol>
+    <li>Clone the repository</li>
+    <li>Rename the codecoolshop.properties template file to codecoolshop.properties and fill in your database credentials</li>
+    <li>Start the program using the mvn jetty:run command</li>
+</ol>
+
 
 ##Usage
 
